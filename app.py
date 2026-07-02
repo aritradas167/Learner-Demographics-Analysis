@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # =========================
 
 with st.spinner("Loading EduPro Analytics Dashboard..."):
-    df = pd.read_csv("Merged_EduPro_Dataset.csv")
+    df = pd.read_csv("Data/Merged_EduPro_Dataset.csv")
 # =========================
 # CREATE AGE GROUPS
 # =========================
